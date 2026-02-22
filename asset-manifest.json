@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.089d7466.chunk.css",
-    "main.js": "/static/js/main.5ae98301.chunk.js",
-    "main.js.map": "/static/js/main.5ae98301.chunk.js.map",
+    "main.js": "/static/js/main.541c6788.chunk.js",
+    "main.js.map": "/static/js/main.541c6788.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c5dacbcd.js",
     "runtime-main.js.map": "/static/js/runtime-main.c5dacbcd.js.map",
     "static/js/2.f365b65c.chunk.js": "/static/js/2.f365b65c.chunk.js",
     "static/js/2.f365b65c.chunk.js.map": "/static/js/2.f365b65c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a76f36a81779cb499570f22247413659.js": "/precache-manifest.a76f36a81779cb499570f22247413659.js",
+    "precache-manifest.9856bf84a260ef68c5d57638300e5945.js": "/precache-manifest.9856bf84a260ef68c5d57638300e5945.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.089d7466.chunk.css.map": "/static/css/main.089d7466.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
-    "static/media/Ashutosh_Hathidara_Resume_ML.pdf": "/static/media/Ashutosh_Hathidara_Resume_ML.bad37978.pdf",
+    "static/media/Krishna_Resume.pdf": "/static/media/Krishna_Resume.f2c89272.pdf",
     "static/media/address_image.svg": "/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.dcd6dee2.svg",
@@ -60,6 +60,6 @@
     "static/js/runtime-main.c5dacbcd.js",
     "static/js/2.f365b65c.chunk.js",
     "static/css/main.089d7466.chunk.css",
-    "static/js/main.5ae98301.chunk.js"
+    "static/js/main.541c6788.chunk.js"
   ]
 }

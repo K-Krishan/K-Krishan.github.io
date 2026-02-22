@@ -195,4 +195,32 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = blueTheme;
+export const midnightTheme = {
+  body: "#0F172A",
+  text: "#F1F5F9",
+  expTxtColor: "#CBD5E1",
+  highlight: "#1E293B",
+  dark: "#020617",
+  secondaryText: "#94A3B8",
+  imageHighlight: "#38BDF8",
+  compImgHighlight: "#1E293B",
+  jacketColor: "#2563EB",
+  headerColor: "#38BDF833",
+  splashBg: "#0F172A",
+};
+
+export const darkBlueTheme = {
+  body: "#0B132B", // Deep navy background
+  text: "#EAF6FF", // Soft white-blue text
+  expTxtColor: "#CFE8FF", // Lighter readable body text
+  highlight: "#1C2541", // Section highlight background
+  dark: "#000000",
+  secondaryText: "#8DA9C4", // Muted blue-gray
+  imageHighlight: "#3A86FF",
+  compImgHighlight: "#1B263B",
+  jacketColor: "#1F3C88",
+  headerColor: "#3A86FF33",
+  splashBg: "#0B132B",
+};
+
+export const chosenTheme = orangeTheme;

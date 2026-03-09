@@ -417,7 +417,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png", // TODO: replace with own image later
+    profile_image_path: "animated_Krishna.png", // TODO: replace with own image later
     description:
       "I am available on most socials, and can actively reply on LinkedIn. I can help with AI related projects helping improve fairness metrics, Information Retrieval Systems for LLMs, or building workflows with Agentic AI.",
   },

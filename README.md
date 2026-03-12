@@ -30,5 +30,3 @@ Please refer main project for detailed customization instructions.
     ├── ...
     └── README.md
 ```
-
-test3
